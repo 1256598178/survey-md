@@ -17,3 +17,15 @@ QQ群：463834000
 支持独立部署，数据对接，sass服务。如需商业支持请加QQ：1256598178。
 
 如有问题可提Issues。
+
+### 管理端
+![管理端](https://huimei-edc.oss-cn-shanghai.aliyuncs.com/edc/data/image/upload_to_oss_component/survey/home.png)
+### 生成平台
+![1724921417755](https://huimei-edc.oss-cn-shanghai.aliyuncs.com/edc/data/image/upload_to_oss_component/survey/desk20240829163744.png)
+### 预览
+![1724921417755](https://huimei-edc.oss-cn-shanghai.aliyuncs.com/edc/data/image/upload_to_oss_component/survey/proview_20240829163824.png)
+### 答题端
+![1724921417755](https://huimei-edc.oss-cn-shanghai.aliyuncs.com/edc/data/image/upload_to_oss_component/survey/answer_20240829164836.png)
+### 报表功能
+![1724921417755](https://huimei-edc.oss-cn-shanghai.aliyuncs.com/edc/data/image/upload_to_oss_component/survey/data_20240829164353.png)
+![1724921417755](https://huimei-edc.oss-cn-shanghai.aliyuncs.com/edc/data/image/upload_to_oss_component/survey/data_20240829164407.png)
