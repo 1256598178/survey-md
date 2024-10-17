@@ -6,11 +6,11 @@
 
 [>>>功能更新日志](./UPDATE.md)
 
-[官网：http://47.113.223.61:8200/ ](http://47.113.223.61:8200 "去体验")(账号密码：admin/123456)
+[官网：http://www.survey-plat.top/ ](http://www.survey-plat.top "去体验")(账号密码：admin/123456)
 
 注：测试账号可供任何人使用，请大家操作时应遵守相关法律法规，如产生违法违规行为作者不承担相关法律责任。
 
-[在线体验：http://47.113.223.61:8200/surveyFront/?surveyCode=66cc1df675b18761c2e580e8#/](http://47.113.223.61:8200/surveyFront/?surveyCode=66cc1df675b18761c2e580e8#/ "在线体验")
+[在线体验：http://www.survey-plat.top/surveyFront/?surveyCode=66cc1df675b18761c2e580e8#/](http://www.survey-plat.top/surveyFront/?surveyCode=66cc1df675b18761c2e580e8#/ "在线体验")
 
 需要您的 star ⭐️⭐️⭐️ 支持鼓励 🙏🙏🙏， **右上角点 Star 加 QQ 群(463834000) 获取详细信息** 。
 
@@ -59,7 +59,7 @@ export default {
     this.$nextTick(() => {
       this.microApp = loadMicroApp({
         name: 'survey_front_app_enter',
-        entry: `http://47.113.223.61:8081/surveyFrontMicro/`,
+        entry: `http://www.survey-plat.top/surveyFrontMicro/`,
         container: '#survey_demo',
         props: {
           surveyCode: '66cc1df675b18761c2e580e8', // 对应生成平台的surveyCode
